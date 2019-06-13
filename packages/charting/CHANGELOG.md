@@ -1,6 +1,22 @@
 # Change Log - @uifabric/charting
 
-This log was last generated on Tue, 11 Jun 2019 12:21:35 GMT and should not be manually modified.
+This log was last generated on Thu, 13 Jun 2019 00:24:48 GMT and should not be manually modified.
+
+## 0.131.1
+Thu, 13 Jun 2019 00:24:48 GMT
+
+### Patches
+
+- Initial release of Fabric 7
+- Fix verticalBarChart x-axis description cut off issue
+
+## 0.30.3
+Wed, 12 Jun 2019 00:42:26 GMT
+
+### Patches
+
+- Render demo app with Markdown instead of PageMarkdown
+- Update and dedupe React deps.
 
 ## 0.30.2
 Tue, 11 Jun 2019 12:21:35 GMT
